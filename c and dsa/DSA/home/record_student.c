@@ -22,8 +22,6 @@ int main()
     printf("Memory allocation failed.");
     return 1;
   }
-
-
   for (int i = 0; i < 10; i++)
   {
     printf("Enter the name of student %d: ", i + 1);
