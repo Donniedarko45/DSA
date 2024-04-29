@@ -1,0 +1,11 @@
+{
+  "name": "web_server2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web_server.js",
+  "scripts": {
+    "start": "node web_server"
+  },
+  "author": "",
+  "license": "ISC"
+}

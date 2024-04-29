@@ -8,5 +8,7 @@
         "*test.py"
     ],
     "python.testing.pytestEnabled": false,
-    "python.testing.unittestEnabled": true
+    "python.testing.unittestEnabled": true,
+    "vscode_custom_css.imports": ["C:/Users/karti/computer science/.vscode/vs-code-styles.css"],
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss19', 'ss20'"
 }

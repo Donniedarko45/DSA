@@ -1,0 +1,3 @@
+QUEUE=> FIFO
+
+STACK=>LIFO

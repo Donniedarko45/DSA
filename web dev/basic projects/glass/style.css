@@ -1,0 +1,49 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;   
+}
+
+main{
+  min-height: 100vh;
+  background: rgb(231, 231, 231);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,94,1) 54%, rgb(3, 64, 72) 87%, rgb(0, 14, 17) 100%);
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+
+.box{
+    background: white;
+    min-height:80vh;
+    width:60%;
+    background: linear-gradient(to right bottom,rgb(163, 219, 245),rgb(28, 77, 67));
+    border: #275855;
+    border-radius: 2rem;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    z-index:35;
+    backdrop-filter: blur(1rem);
+    
+}
+.circle1,
+.circle2 {
+
+    background: white;
+    background: linear-gradient(to right bottom,rgb(163, 219, 245),rgb(28, 77, 67));
+    height:5rem;
+    width:5rem;
+    position:absolute;
+
+}
+.circle1{
+    top:5%;
+    left:10%;
+    border-radius: 1.1rem;
+}
+.circle2{
+    bottom:5%;
+    right:10%;
+    border-radius: 1.1rem;
+}
