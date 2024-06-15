@@ -1,2 +1,0 @@
---> window object is not available in nodejs
---> npm init it make a new file which will help in running a file
